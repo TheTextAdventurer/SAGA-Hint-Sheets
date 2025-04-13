@@ -2,9 +2,9 @@
 **1 - STUCK IN THE FOREST?**
 <details><summary>Spoiler</summary>WHAT IS THE MAIN OBJECT IN A FOREST</details>
 **2 - More help for above problem.**
-<details><summary>Spoiler</summar>yCLIMB TREE</details>
+<details><summary>Spoiler</summary>CLIMB TREE</details>
 **3 - Solution to above problem.**
-<details><summary>Spoiler</summar>yGO EAST</details>
+<details><summary>Spoiler</summary>GO EAST</details>
 ---
 **4 - CAN NOT FIND WHERE TO STORE YOUR**
 <details><summary>Spoiler</summar>yN/A CLIMB THE CYPRESS TREE IN THE SWAMP</details>
