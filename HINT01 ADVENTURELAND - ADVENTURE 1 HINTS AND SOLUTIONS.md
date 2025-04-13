@@ -1,6 +1,6 @@
 # ADVENTURELAND - ADVENTURE 1 HINTS AND SOLUTIONS
 **1 - STUCK IN THE FOREST?**
-<details><summary>Spoiler</summar>yWHAT IS THE MAIN OBJECT IN A FOREST</details>
+<details><summary>Spoiler</summary>WHAT IS THE MAIN OBJECT IN A FOREST</details>
 **2 - More help for above problem.**
 <details><summary>Spoiler</summar>yCLIMB TREE</details>
 **3 - Solution to above problem.**
