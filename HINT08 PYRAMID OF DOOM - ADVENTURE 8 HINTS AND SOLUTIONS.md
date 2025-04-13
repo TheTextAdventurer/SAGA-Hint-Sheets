@@ -1,6 +1,6 @@
 # PYRAMID OF DOOM - ADVENTURE 8 HINTS AND SOLUTIONS
 
-**1 - CAN'T GET IN THE PYRAMID?**
+## 1 - CAN'T GET IN THE PYRAMID?
 <details><summary>Answer</summary>DIG BY THE PYRAMID AND IN THE DESERT</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - CAN'T GET IN THE TINY DOOR?**
+## 4 - CAN'T GET IN THE TINY DOOR?
 <details><summary>Answer</summary>OK.</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - NOMAD IS TROUBLE?**
+## 7 - NOMAD IS TROUBLE?
 <details><summary>Answer</summary>SOMETIMES HE IS VERY USEFUL</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - CAN NOT GET BY MUMMY?**
+## 10 - CAN NOT GET BY MUMMY?
 <details><summary>Answer</summary>SOMETHING GIVES HIM HIS POWER</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - PURPLE WORM A PROBLEM?**
+## 13 - PURPLE WORM A PROBLEM?
 <details><summary>Answer</summary>LEAVE THE WORM ALONE</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - PHARAOH A PROBLEM?**
+## 16 - PHARAOH A PROBLEM?
 <details><summary>Answer</summary>LOOK IN THE FIREPLACE AND THINK CLEAN</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - BRICKED DOORWAY A PROBLEM?**
+## 19 - BRICKED DOORWAY A PROBLEM?
 <details><summary>Answer</summary>HIT THE DOOR</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - LIGHT TOO BRIGHT?**
+## 22 - LIGHT TOO BRIGHT?
 <details><summary>Answer</summary>USE A BLIND MAN'S SENSE</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - OYSTER A PROBLEM?**
+## 25 - OYSTER A PROBLEM?
 <details><summary>Answer</summary>YOU DID SOMETHING WRONG WITH THE RATS</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - DO NOT KNOW WHERE TO STORE TREASURES?**
+## 28 - DO NOT KNOW WHERE TO STORE TREASURES?
 <details><summary>Answer</summary>ROCK</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - MISSING NECKLACE?**
+## 31 - MISSING NECKLACE?
 <details><summary>Answer</summary>TABLE</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - POISON NEEDLE A PROBLEM?**
+## 34 - POISON NEEDLE A PROBLEM?
 <details><summary>Answer</summary>PROTECT YOUR HAND</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - MISSING SCARAB?**
+## 37 - MISSING SCARAB?
 <details><summary>Answer</summary>WALL</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - MISSING TREASURE?**
+## 40 - MISSING TREASURE?
 <details><summary>Answer</summary>EXAMINE EXPLORER</details>
 
 **41 - More help for above problem.**

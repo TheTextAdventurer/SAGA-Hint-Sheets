@@ -1,6 +1,6 @@
 # SAVAGE ISLAND PART 1 - ADVENTURE 10 HINTS AND SOLUTIONS
 
-**1 - HAVE NOT FOUND BOTTLE?**
+## 1 - HAVE NOT FOUND BOTTLE?
 <details><summary>Answer</summary>DIG</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - HAVE NOT FOUND A BEAR?**
+## 4 - HAVE NOT FOUND A BEAR?
 <details><summary>Answer</summary>CLIMB THINGS</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - HAVE NOT FOUND THE KNIFE?**
+## 7 - HAVE NOT FOUND THE KNIFE?
 <details><summary>Answer</summary>SWIM</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - STILL HAVE NOT FOUND KNIFE?**
+## 10 - STILL HAVE NOT FOUND KNIFE?
 <details><summary>Answer</summary>SWIM DOWN IN LAKE</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - CAN NOT OUTLIVE HURRICANE?**
+## 13 - CAN NOT OUTLIVE HURRICANE?
 <details><summary>Answer</summary>WAIT SOMEWHERE THE WINDS DO NOT BLOW</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - CAN NOT GET OUT OF THE VOLCANO?**
+## 16 - CAN NOT GET OUT OF THE VOLCANO?
 <details><summary>Answer</summary>SWIM</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - HURRICANE WINDS A PROBLEM?**
+## 19 - HURRICANE WINDS A PROBLEM?
 <details><summary>Answer</summary>YOU NEED SOMETHING TO HOLD YOU DOWN</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - BEAR STILL A PROBLEM?**
+## 22 - BEAR STILL A PROBLEM?
 <details><summary>Answer</summary>EXAMINE BEAR AND TASTE SWEAT</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - HAVE NOT BEEN OFF THE ISLAND YET?**
+## 25 - HAVE NOT BEEN OFF THE ISLAND YET?
 <details><summary>Answer</summary>EXAMINE JUNGLE</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - CAN NOT ALWAYS CONTROL THE RAFT?**
+## 28 - CAN NOT ALWAYS CONTROL THE RAFT?
 <details><summary>Answer</summary>THATS CORRECT</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - PROBLEMS WITH A STALACTITE?**
+## 31 - PROBLEMS WITH A STALACTITE?
 <details><summary>Answer</summary>EXAMINE IT</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - NEED SOME LIGHT?**
+## 34 - NEED SOME LIGHT?
 <details><summary>Answer</summary>LAKE</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - MACHINERY NOT WORKING?**
+## 37 - MACHINERY NOT WORKING?
 <details><summary>Answer</summary>LOOK IN MAZE OF CAVES</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - NEED A PASSWORD?**
+## 40 - NEED A PASSWORD?
 <details><summary>Answer</summary>SAIL TO ATOLL AFTER THE CANNON FIRES</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - LOSING SOMETHING EARLY IN THE**
+## 43 - LOSING SOMETHING EARLY IN THE
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A POUR IT SOMEWHERE YOU CAN GET IT BACK</details>
 
 **44 - More help for above problem.**
@@ -180,7 +180,7 @@
 ---
 
 
-**46 - DO NOT KNOW HOW TO END THE ADVENTURE?**
+## 46 - DO NOT KNOW HOW TO END THE ADVENTURE?
 <details><summary>Answer</summary>LET THE CAVE MAN HELP</details>
 
 **47 - More help for above problem.**

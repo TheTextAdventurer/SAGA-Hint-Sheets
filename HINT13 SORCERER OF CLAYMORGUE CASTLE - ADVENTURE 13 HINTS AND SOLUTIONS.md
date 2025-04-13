@@ -1,6 +1,6 @@
 # SORCERER OF CLAYMORGUE CASTLE - ADVENTURE 13 HINTS AND SOLUTIONS
 
-**1 - CAN NOT GET IN THE CASTLE?**
+## 1 - CAN NOT GET IN THE CASTLE?
 <details><summary>Answer</summary>TAKE INVENTORY</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - CAN NOT FIGURE OUT PLAIN ROOM?**
+## 4 - CAN NOT FIGURE OUT PLAIN ROOM?
 <details><summary>Answer</summary>EXAMINE THE WALLS</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - HAVE A PROBLEM WITH RATS?**
+## 7 - HAVE A PROBLEM WITH RATS?
 <details><summary>Answer</summary>YOU NEED A SPELL HERE</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - PROBLEM WITH CHANDELIER?**
+## 10 - PROBLEM WITH CHANDELIER?
 <details><summary>Answer</summary>EXAMINE CEILING</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - HAVE NOT FOUND THE DRAGON YET?**
+## 13 - HAVE NOT FOUND THE DRAGON YET?
 <details><summary>Answer</summary>PLAY IN THE PLAIN ROOM</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - HAVE NOT FOUND THE LOFT?**
+## 16 - HAVE NOT FOUND THE LOFT?
 <details><summary>Answer</summary>BALLROOM</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN NOT REACH THE LOFT?**
+## 19 - CAN NOT REACH THE LOFT?
 <details><summary>Answer</summary>TAKES MAGIC</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - HAVE NOT FOUND ANYTHING USEFUL IN THE MOAT?**
+## 22 - HAVE NOT FOUND ANYTHING USEFUL IN THE MOAT?
 <details><summary>Answer</summary>TRY GOING DEEPER</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - HAVE NOT FOUND ANYTHING USEFUL IN THE KITCHEN?**
+## 25 - HAVE NOT FOUND ANYTHING USEFUL IN THE KITCHEN?
 <details><summary>Answer</summary>DRAIN</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - HAVE NOT USED WICKED QUEEN'S SPELL?**
+## 28 - HAVE NOT USED WICKED QUEEN'S SPELL?
 <details><summary>Answer</summary>WHO WAS THE WICKED QUEEN - WHAT FAIRY TALE</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - HAVE NOT FOUND BLISS?**
+## 31 - HAVE NOT FOUND BLISS?
 <details><summary>Answer</summary>KITCHEN</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - DO NOT HAVE A CAN?**
+## 34 - DO NOT HAVE A CAN?
 <details><summary>Answer</summary>EXAMINE CASTLE</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - HAVE NOT FOUND UNRAVEL YET?**
+## 37 - HAVE NOT FOUND UNRAVEL YET?
 <details><summary>Answer</summary>PLAIN ROOM</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - RATS A PROBLEM?**
+## 40 - RATS A PROBLEM?
 <details><summary>Answer</summary>USE THE MIRROR TO TEST A SPELL</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - CAN NOT GET THROUGH THE STONE DOOR?**
+## 43 - CAN NOT GET THROUGH THE STONE DOOR?
 <details><summary>Answer</summary>DO NOT WASTE SPELL ON ENTRY</details>
 
 **44 - More help for above problem.**
@@ -180,7 +180,7 @@
 ---
 
 
-**46 - STILL CAN NOT GET THROUGH STONE DOOR?**
+## 46 - STILL CAN NOT GET THROUGH STONE DOOR?
 <details><summary>Answer</summary>YOU CAN COME IN THE WAY YOU LEFT</details>
 
 **47 - More help for above problem.**
@@ -192,7 +192,7 @@
 ---
 
 
-**49 - CAN NOT CROSS LAVA?**
+## 49 - CAN NOT CROSS LAVA?
 <details><summary>Answer</summary>USE MIRROR TO SEE WHAT SOME SPELLS DO</details>
 
 **50 - More help for above problem.**
@@ -204,7 +204,7 @@
 ---
 
 
-**52 - CAN NOT DRY OUT TOWEL?**
+## 52 - CAN NOT DRY OUT TOWEL?
 <details><summary>Answer</summary>HEAT</details>
 
 **53 - More help for above problem.**
@@ -216,7 +216,7 @@
 ---
 
 
-**55 - HAVING PROBLEMS WITH FOUNTAIN?**
+## 55 - HAVING PROBLEMS WITH FOUNTAIN?
 <details><summary>Answer</summary>EXAMINE FOUNTAIN</details>
 
 **56 - More help for above problem.**
@@ -228,7 +228,7 @@
 ---
 
 
-**58 - FOUNTAIN STILL A PROBLEM?**
+## 58 - FOUNTAIN STILL A PROBLEM?
 <details><summary>Answer</summary>WHAT IS THE OPPOSITE OF YOUNG</details>
 
 **59 - More help for above problem.**
@@ -240,7 +240,7 @@
 ---
 
 
-**61 - CAN NOT GET CAN?**
+## 61 - CAN NOT GET CAN?
 <details><summary>Answer</summary>THROW SOMETHING</details>
 
 **62 - More help for above problem.**
@@ -252,7 +252,7 @@
 ---
 
 
-**64 - HAVE NOT GOTTEN INTO BOX?**
+## 64 - HAVE NOT GOTTEN INTO BOX?
 <details><summary>Answer</summary>GO BOX</details>
 
 **65 - More help for above problem.**
@@ -264,7 +264,7 @@
 ---
 
 
-**67 - HAVE NOT FIGURED A USE FOR FIRE?**
+## 67 - HAVE NOT FIGURED A USE FOR FIRE?
 <details><summary>Answer</summary>IT WILL BURN THINGS</details>
 
 **68 - More help for above problem.**
@@ -276,7 +276,7 @@
 ---
 
 
-**70 - HAVE NOT FOUND FIREFLY SPELL?**
+## 70 - HAVE NOT FOUND FIREFLY SPELL?
 <details><summary>Answer</summary>DRAGON</details>
 
 **71 - More help for above problem.**
@@ -288,7 +288,7 @@
 ---
 
 
-**73 - DRAGON STILL A PROBLEM?**
+## 73 - DRAGON STILL A PROBLEM?
 <details><summary>Answer</summary>TRY SPELLS IN FRONT OF THE MIRROR</details>
 
 **74 - More help for above problem.**
@@ -300,7 +300,7 @@
 ---
 
 
-**76 - CAN NOT LEAVE LOFT?**
+## 76 - CAN NOT LEAVE LOFT?
 <details><summary>Answer</summary>IT IS NOT THAT FAR</details>
 
 **77 - More help for above problem.**
@@ -312,7 +312,7 @@
 ---
 
 
-**79 - DRAGON STILL A PROBLEM?**
+## 79 - DRAGON STILL A PROBLEM?
 <details><summary>Answer</summary>YOU NEED AN ITEM YOU MAY NOT EVEN KNOW YOU CAN GET</details>
 
 **80 - More help for above problem.**
@@ -324,7 +324,7 @@
 ---
 
 
-**82 - DRAGON STILL A PROBLEM?**
+## 82 - DRAGON STILL A PROBLEM?
 <details><summary>Answer</summary>THE ITEM IS THE DUST IN THE ROOM</details>
 
 **83 - More help for above problem.**
@@ -336,7 +336,7 @@
 ---
 
 
-**85 - HAVE NOT DONE ANYTHING WITH THE STAIRS?**
+## 85 - HAVE NOT DONE ANYTHING WITH THE STAIRS?
 <details><summary>Answer</summary>CAST PERME ON THE WOODEN STAIRS</details>
 
 **86 - More help for above problem.**
@@ -348,7 +348,7 @@
 ---
 
 
-**88 - DO NOT KNOW WHERE TO STORE THE STARS?**
+## 88 - DO NOT KNOW WHERE TO STORE THE STARS?
 <details><summary>Answer</summary>FOREST</details>
 
 **89 - More help for above problem.**
@@ -360,7 +360,7 @@
 ---
 
 
-**91 - CAN NOT RETRIEVE THINGS FROM MOAT**
+## 91 - CAN NOT RETRIEVE THINGS FROM MOAT
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A THAT IS RIGHT - BUT TWO SPELLS WILL WORK WELL HERE</details>
 
 **92 - More help for above problem.**
@@ -372,7 +372,7 @@
 ---
 
 
-**94 - DO NOT KNOW WHERE TO USE FIRE SPELL?**
+## 94 - DO NOT KNOW WHERE TO USE FIRE SPELL?
 <details><summary>Answer</summary>FOREST</details>
 
 **95 - More help for above problem.**
@@ -384,7 +384,7 @@
 ---
 
 
-**97 - CAN NOT GET ALL STARS INTO TREASURE LOCATION?**
+## 97 - CAN NOT GET ALL STARS INTO TREASURE LOCATION?
 <details><summary>Answer</summary>IT WILL TAKE TWO TRIPS</details>
 
 **98 - More help for above problem.**
@@ -396,7 +396,7 @@
 ---
 
 
-**100 - NEED TO GET IN THE BOX?**
+## 100 - NEED TO GET IN THE BOX?
 <details><summary>Answer</summary>CAST PERME</details>
 
 **101 - More help for above problem.**
@@ -408,7 +408,7 @@
 ---
 
 
-**103 - CAN NOT OPEN THE CAN?**
+## 103 - CAN NOT OPEN THE CAN?
 <details><summary>Answer</summary>BOX</details>
 
 **104 - More help for above problem.**
@@ -420,7 +420,7 @@
 ---
 
 
-**106 - WARNING WHAT FOLLOWS ARE SOLUTIONS**
+## 106 - WARNING WHAT FOLLOWS ARE SOLUTIONS
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A CAST BLISS WHEN AT MOAT BOTTOM</details>
 
 **107 - More help for above problem.**
@@ -432,7 +432,7 @@
 ---
 
 
-**109 - MORE SOLUTIONS?**
+## 109 - MORE SOLUTIONS?
 <details><summary>Answer</summary>AFTER GETTING OUT OF MOAT THEN GO TO LOFT THEN TO LAVA</details>
 
 **110 - More help for above problem.**
@@ -444,7 +444,7 @@
 ---
 
 
-**112 - MORE SOLUTIONS?**
+## 112 - MORE SOLUTIONS?
 <details><summary>Answer</summary>GO DOWN THE AIR SHAFT AND GET LAST STAR AND YOHO BACK TO TREE</details>
 
 **113 - More help for above problem.**

@@ -1,6 +1,6 @@
 # ADVENTURELAND - ADVENTURE 1 HINTS AND SOLUTIONS
 
-**1 - STUCK IN THE FOREST?**
+## 1 - STUCK IN THE FOREST?
 <details><summary>Answer</summary>WHAT IS THE MAIN OBJECT IN A FOREST</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - CAN NOT FIND WHERE TO STORE YOUR**
+## 4 - CAN NOT FIND WHERE TO STORE YOUR
 <details><summary>Answer</summary>N/A CLIMB THE CYPRESS TREE IN THE SWAMP</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - CAN NOT CATCH THE FISH?**
+## 7 - CAN NOT CATCH THE FISH?
 <details><summary>Answer</summary>WAIT UNTIL YOU HAVE GOTTEN OUT OF THE PITS</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - CAN NOT WAKE THE DRAGON?**
+## 10 - CAN NOT WAKE THE DRAGON?
 <details><summary>Answer</summary>TRY AGAIN LATER ON IN THE ADVENTURE THIS CAN BE ONE OF THE LAST THINGS YOU DO</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - IS IT TOO DARK TO SEE?**
+## 13 - IS IT TOO DARK TO SEE?
 <details><summary>Answer</summary>ENTER BOTTOMLESS HOLE</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - STUCK IN THE PIT?**
+## 16 - STUCK IN THE PIT?
 <details><summary>Answer</summary>YOU NEED MAGIC</details>
 
 **17 - More help with above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN NOT GET THE OX OUT OF THE BOG?**
+## 19 - CAN NOT GET THE OX OUT OF THE BOG?
 <details><summary>Answer</summary>YOU NEED MAGIC</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - BRICK WALL A PROBLEM?**
+## 22 - BRICK WALL A PROBLEM?
 <details><summary>Answer</summary>THROW AX AT IT</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - NEED TO CROSS A CHASM?**
+## 25 - NEED TO CROSS A CHASM?
 <details><summary>Answer</summary>IT IS NOT THAT FAR - GO FOR IT</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - BEAR A PROBLEM?**
+## 28 - BEAR A PROBLEM?
 <details><summary>Answer</summary>HE IS HUNGRY</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - BEAR STILL USING UP A TREASURE?**
+## 31 - BEAR STILL USING UP A TREASURE?
 <details><summary>Answer</summary>HOW DO YOU GET MAD AT SOMEONE</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - BEES A PROBLEM?**
+## 34 - BEES A PROBLEM?
 <details><summary>Answer</summary>TRY - HELP - IN BEE HIVE</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - MUD DRIES UP A LOT?**
+## 37 - MUD DRIES UP A LOT?
 <details><summary>Answer</summary>KEEP IT MOIST</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - LAVA A PROBLEM?**
+## 40 - LAVA A PROBLEM?
 <details><summary>Answer</summary>MIRROR IS GOOD FOR MANY CLUES</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - DRAGON STILL STORING?**
+## 43 - DRAGON STILL STORING?
 <details><summary>Answer</summary>USE MIRROR FOR A CLUE</details>
 
 **44 - More help for above problem.**
@@ -180,7 +180,7 @@
 ---
 
 
-**46 - BEES DYING ON YOU?**
+## 46 - BEES DYING ON YOU?
 <details><summary>Answer</summary>USE FASTER TRANSPORTATION</details>
 
 **47 - More help for above problem.**
@@ -192,7 +192,7 @@
 ---
 
 
-**49 - MISSING SOME DIAMOND TREASURES?**
+## 49 - MISSING SOME DIAMOND TREASURES?
 <details><summary>Answer</summary>THE LAMP</details>
 
 **50 - More help for above problem.**
@@ -204,7 +204,7 @@
 ---
 
 
-**52 - MISSING A CROWN?**
+## 52 - MISSING A CROWN?
 <details><summary>Answer</summary>WHERE DOES A CROWN BELONG</details>
 
 **53 - More help for above problem.**

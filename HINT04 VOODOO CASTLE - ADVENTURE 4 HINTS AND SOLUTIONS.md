@@ -1,6 +1,6 @@
 # VOODOO CASTLE - ADVENTURE 4 HINTS AND SOLUTIONS
 
-**1 - HAVE NOT GOT A RING YET?**
+## 1 - HAVE NOT GOT A RING YET?
 <details><summary>Answer</summary>IT IS WHERE YOU STARTED</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - CAN NOT GET PAST THE STONE DOOR?**
+## 4 - CAN NOT GET PAST THE STONE DOOR?
 <details><summary>Answer</summary>READ THE RING</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - HAVE NOT FOUND A SAFE?**
+## 7 - HAVE NOT FOUND A SAFE?
 <details><summary>Answer</summary>REMOVE ANIMAL HEADS</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - CAN NOT READ THE PLAQUE?**
+## 10 - CAN NOT READ THE PLAQUE?
 <details><summary>Answer</summary>NEED LENS</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - NEED LIGHT?**
+## 13 - NEED LIGHT?
 <details><summary>Answer</summary>DUSTY ?</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - EXPLODING CHEM TUBES A PROBLEM?**
+## 16 - EXPLODING CHEM TUBES A PROBLEM?
 <details><summary>Answer</summary>TRY ARMORY</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - TINY DOOR TOO SMALL FOR YOU?**
+## 19 - TINY DOOR TOO SMALL FOR YOU?
 <details><summary>Answer</summary>EXAMINE CHEMICALS</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - STUCK CHIMNEY SWEEP?**
+## 22 - STUCK CHIMNEY SWEEP?
 <details><summary>Answer</summary>IF YOU CAN NOT PULL HIM OUT ...</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - CRACK IN THE WALL A PROBLEM?**
+## 25 - CRACK IN THE WALL A PROBLEM?
 <details><summary>Answer</summary>SUMMON THE MEDIUM IN HER CHAMBER</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - MISSING RABBIT'S FOOT OR FOUR LEAF CLOVER?**
+## 28 - MISSING RABBIT'S FOOT OR FOUR LEAF CLOVER?
 <details><summary>Answer</summary>ONE IS BY A KETTLE THE OTHER BY NETTLES</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - CURSE STILL HOLDING?**
+## 31 - CURSE STILL HOLDING?
 <details><summary>Answer</summary>LISTEN TO MEDIUM ABOUT THE GOOD LUCK CHARMS</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - WINDOW STILL SLAMMING SHUT?**
+## 34 - WINDOW STILL SLAMMING SHUT?
 <details><summary>Answer</summary>GET LUCKY</details>
 
 **35 - More help for above problem.**

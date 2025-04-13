@@ -1,6 +1,6 @@
 # GHOST TOWN - ADVENTURE 9 HINTS AND SOLUTIONS
 
-**1 - CAN NOT GET INTO JAIL?**
+## 1 - CAN NOT GET INTO JAIL?
 <details><summary>Answer</summary>EXAMINE DOOR THERE IS NO OUTSIDE LATCH</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - NEED A KEY?**
+## 4 - NEED A KEY?
 <details><summary>Answer</summary>PLAY WITH TELEGRAPH</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - STILL NEED A KEY?**
+## 7 - STILL NEED A KEY?
 <details><summary>Answer</summary>MORSE CODE SAID - SHAKE TOPPER -</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - HORSE A PROBLEM?**
+## 10 - HORSE A PROBLEM?
 <details><summary>Answer</summary>GET ON HIS BACK</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - HORSE A PROBLEM?**
+## 13 - HORSE A PROBLEM?
 <details><summary>Answer</summary>HE NEEDS SOMETHING ON HIM</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - CAN NOT LEAVE INDIAN VILLAGE?**
+## 16 - CAN NOT LEAVE INDIAN VILLAGE?
 <details><summary>Answer</summary>PLAY WITH DRUMS</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - HAVE NOT FOUND A MINE?**
+## 19 - HAVE NOT FOUND A MINE?
 <details><summary>Answer</summary>GO RAVINE</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - FREEZING AT NIGHT?**
+## 22 - FREEZING AT NIGHT?
 <details><summary>Answer</summary>FIND A WARM PLACE TO SLEEP</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - HAVE NOT FOUND ANY EXPLOSIVES?**
+## 25 - HAVE NOT FOUND ANY EXPLOSIVES?
 <details><summary>Answer</summary>DIG IN FIELD</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - STILL HAVE NOT FOUND ANY EXPLOSIVES?**
+## 28 - STILL HAVE NOT FOUND ANY EXPLOSIVES?
 <details><summary>Answer</summary>YOU HAVE THE TOOLS</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - STILL HAVING PROBLEMS WITH EXPLOSIVES?**
+## 31 - STILL HAVING PROBLEMS WITH EXPLOSIVES?
 <details><summary>Answer</summary>IT NEEDS A CONTAINER</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - CAN NOT GET TO MOUNTAINS?**
+## 34 - CAN NOT GET TO MOUNTAINS?
 <details><summary>Answer</summary>CROSS RAVINE</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - CAN NOT FIND - GO BOARD -?**
+## 37 - CAN NOT FIND - GO BOARD -?
 <details><summary>Answer</summary>PLAY WITH MIRROR IN SALOON</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - STILL CAN NOT FIND - GO BOARD -?**
+## 40 - STILL CAN NOT FIND - GO BOARD -?
 <details><summary>Answer</summary>PLAY IN HOTEL ROOM</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - DO NOT HAVE A CUP?**
+## 43 - DO NOT HAVE A CUP?
 <details><summary>Answer</summary>PLAY IN SALOON AT NIGHT</details>
 
 **44 - More help for above problem.**
@@ -180,7 +180,7 @@
 ---
 
 
-**46 - CAN NOT OPEN SAFE?**
+## 46 - CAN NOT OPEN SAFE?
 <details><summary>Answer</summary>PLAY IN LINE SHACK</details>
 
 **47 - More help for above problem.**
@@ -192,7 +192,7 @@
 ---
 
 
-**49 - MISSING FURS?**
+## 49 - MISSING FURS?
 <details><summary>Answer</summary>PLAY IN LINE SHACK</details>
 
 **50 - More help for above problem.**
@@ -204,7 +204,7 @@
 ---
 
 
-**52 - PIANO PLAYER A PROBLEM?**
+## 52 - PIANO PLAYER A PROBLEM?
 <details><summary>Answer</summary>HE IS VAIN</details>
 
 **53 - More help for above problem.**
@@ -216,7 +216,7 @@
 ---
 
 
-**55 - MISSING GOLD NUGGET?**
+## 55 - MISSING GOLD NUGGET?
 <details><summary>Answer</summary>PLAY PIANO</details>
 
 **56 - More help for above problem.**
@@ -228,7 +228,7 @@
 ---
 
 
-**58 - MISSING A TREASURE?**
+## 58 - MISSING A TREASURE?
 <details><summary>Answer</summary>BOOT HILL</details>
 
 **59 - More help for above problem.**
@@ -240,7 +240,7 @@
 ---
 
 
-**61 - DO NOT HAVE $200?**
+## 61 - DO NOT HAVE $200?
 <details><summary>Answer</summary>CONTRAPOSITIVE IS IN THE DICTIONARY</details>
 
 **62 - More help for above problem.**
@@ -252,7 +252,7 @@
 ---
 
 
-**64 - SNAKE A PROBLEM?**
+## 64 - SNAKE A PROBLEM?
 <details><summary>Answer</summary>USE FORCE</details>
 
 **65 - More help for above problem.**
@@ -264,7 +264,7 @@
 ---
 
 
-**67 - BONUS SCORE A PROBLEM?**
+## 67 - BONUS SCORE A PROBLEM?
 <details><summary>Answer</summary>YOU MUST DO MANY THINGS IN THE RIGHT ORDER</details>
 
 **68 - More help for above problem.**

@@ -1,6 +1,6 @@
 # SAVAGE ISLAND PART 2 - ADVENTURE 11 HINTS AND SOLUTIONS
 
-**1 - PROBLEM WITH VACUUM?**
+## 1 - PROBLEM WITH VACUUM?
 <details><summary>Answer</summary>HOW DO SWIMMERS SURVIVE UNDERWATER</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - REACH TUNNELS BUT NO OTHER FORCE FIELDS?**
+## 4 - REACH TUNNELS BUT NO OTHER FORCE FIELDS?
 <details><summary>Answer</summary>STORE SOME AIR</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - PROBLEM WITH CAVEMAN?**
+## 7 - PROBLEM WITH CAVEMAN?
 <details><summary>Answer</summary>EAT THE FLOWER</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - PSYCHOTRANSFIGURATION A BIG WORD?**
+## 10 - PSYCHOTRANSFIGURATION A BIG WORD?
 <details><summary>Answer</summary>PLAY WITH THE CAVEMAN IN RED ROOMS</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - NEED A RAYSHIELD?**
+## 13 - NEED A RAYSHIELD?
 <details><summary>Answer</summary>YOU FOUND IT IN ADVENTURE #10 AND YOU MUST BRING IT WITH YOU INTO THIS ADVENTURE</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - PSYCHOTRANSFIGURATION GO THROUGH**
+## 16 - PSYCHOTRANSFIGURATION GO THROUGH
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A N/A IT IS NOT REALLY DARK</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN'T FIND ANYPLACE ELSE TO GO?**
+## 19 - CAN'T FIND ANYPLACE ELSE TO GO?
 <details><summary>Answer</summary>BANDANNA UNRAVELS MANY MYSTERIES</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - CAN NOT GET THROUGH FORCE FIELD**
+## 22 - CAN NOT GET THROUGH FORCE FIELD
 <details><summary>Answer</summary>N/A N/A N/A DO NOT LOOK AT THE LIGHT</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - CAN NOT THROW THE LEVERS?**
+## 25 - CAN NOT THROW THE LEVERS?
 <details><summary>Answer</summary>WORK ON THE ONE IN THE EXERCISE ROOM</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - CAN NOT FIGURE WHAT TO DO NEXT?**
+## 28 - CAN NOT FIGURE WHAT TO DO NEXT?
 <details><summary>Answer</summary>BE SURE YOU HAVE AIR THROUGH OUT THE WHOLE SHIP</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - STILL CAN NOT FIGURE WHAT TO DO NEXT?**
+## 31 - STILL CAN NOT FIGURE WHAT TO DO NEXT?
 <details><summary>Answer</summary>KILL THE DINOSAURS AS THE CAPTAIN'S LOG SUGGESTED</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - STILL CAN NOT FIGURE WHAT TO DO NEXT?**
+## 34 - STILL CAN NOT FIGURE WHAT TO DO NEXT?
 <details><summary>Answer</summary>THE ROBOPIRATE KNOWS</details>
 
 **35 - More help for above problem.**

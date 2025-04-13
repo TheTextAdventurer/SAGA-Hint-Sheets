@@ -1,6 +1,6 @@
 # STRANGE ODYSSEY - ADVENTURE 6 HINTS AND SOLUTIONS
 
-**1 - HAVE NOT BEEN ABLE TO LEAVE THE SHIP?**
+## 1 - HAVE NOT BEEN ABLE TO LEAVE THE SHIP?
 <details><summary>Answer</summary>EXAMINE THE CONSOLE</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - VACUUM A PROBLEM?**
+## 4 - VACUUM A PROBLEM?
 <details><summary>Answer</summary>WEAR THE SPACESUIT</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - CAN NOT GET OFF THE SHIP?**
+## 7 - CAN NOT GET OFF THE SHIP?
 <details><summary>Answer</summary>IT IS A SIMPLE ACTION</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - HAVE ONLY FOUND A BOULDER?**
+## 10 - HAVE ONLY FOUND A BOULDER?
 <details><summary>Answer</summary>EXAMINE PHASER</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - CAN NOT DO ANYTHING MUCH IN HEXAGONAL ROOM?**
+## 13 - CAN NOT DO ANYTHING MUCH IN HEXAGONAL ROOM?
 <details><summary>Answer</summary>EXAMINE PLASTIC AND TRY - HELP -</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - CAN NOT GET ANYWHERE ELSE?**
+## 16 - CAN NOT GET ANYWHERE ELSE?
 <details><summary>Answer</summary>REPEAT</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - AIR RUNS OUT ON YOU?**
+## 19 - AIR RUNS OUT ON YOU?
 <details><summary>Answer</summary>OPEN THE SUIT IF THE GAUGE SAYS THE AIR IS BREATHABLE</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - CAN NOT MAKE ANYTHING OUT OF THE PICTURE?**
+## 22 - CAN NOT MAKE ANYTHING OUT OF THE PICTURE?
 <details><summary>Answer</summary>WEAR GOGGLES</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - HIGH GRAVITY GETTING YOU DOWN?**
+## 25 - HIGH GRAVITY GETTING YOU DOWN?
 <details><summary>Answer</summary>GOGGLES AND PAINTING IS THE CLUE</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - CAN NOT GET HATCH OPEN?**
+## 28 - CAN NOT GET HATCH OPEN?
 <details><summary>Answer</summary>HIGH GRAVITY WORLD HOLDS THE CLUE</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - NEED A POWER CRYSTAL?**
+## 31 - NEED A POWER CRYSTAL?
 <details><summary>Answer</summary>EXAMINE THE BROKEN CRYSTAL</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - CAN NOT RETURN TO PLANETOID AND SCOUT SHIP?**
+## 34 - CAN NOT RETURN TO PLANETOID AND SCOUT SHIP?
 <details><summary>Answer</summary>USING THE ROD YOU MUST RESET THE GATEWAY</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - MISSING AN ICE DIAMOND?**
+## 37 - MISSING AN ICE DIAMOND?
 <details><summary>Answer</summary>ICE HOUND AND METHANE SNOW STORM THEN EXPLORE</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - DO NOT KNOW WHERE TO STORE YOUR TREASURES?**
+## 40 - DO NOT KNOW WHERE TO STORE YOUR TREASURES?
 <details><summary>Answer</summary>BLAST OFF IN YOUR SCOUT SHIP</details>
 
 **41 - More help for above problem.**

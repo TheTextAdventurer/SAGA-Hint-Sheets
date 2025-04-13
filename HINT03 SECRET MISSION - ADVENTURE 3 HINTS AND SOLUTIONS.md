@@ -1,6 +1,6 @@
 # SECRET MISSION - ADVENTURE 3 HINTS AND SOLUTIONS
 
-**1 - CAN NOT GET THROUGH THE WHITE DOOR?**
+## 1 - CAN NOT GET THROUGH THE WHITE DOOR?
 <details><summary>Answer</summary>SIT IN THE CHAIR</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - CAN NOT GET THROUGH YELLOW DOOR?**
+## 4 - CAN NOT GET THROUGH YELLOW DOOR?
 <details><summary>Answer</summary>NEED YELLOW KEY OUTSIDE WINDOW</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - BOMB GOING OFF AFTER GETTING KEY?**
+## 7 - BOMB GOING OFF AFTER GETTING KEY?
 <details><summary>Answer</summary>NOTE TV CAMERA ABOVE THE WINDOW - REMEMBER HOW YOU GOT INTO WHITE ROOM</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - STILL CAN NOT GET THROUGH YELLOW DOOR?**
+## 10 - STILL CAN NOT GET THROUGH YELLOW DOOR?
 <details><summary>Answer</summary>PLAY IN CHAIR</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - CAN NOT GET THROUGH BLUE DOOR?**
+## 13 - CAN NOT GET THROUGH BLUE DOOR?
 <details><summary>Answer</summary>LOOK FOR A CLEAN UP TOOL</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - CAN NOT GET THROUGH THE JAMMED DOOR?**
+## 16 - CAN NOT GET THROUGH THE JAMMED DOOR?
 <details><summary>Answer</summary>LOOK THOUGH 6 INCH WINDOW</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN NOT DEFUSE THE BOMB?**
+## 19 - CAN NOT DEFUSE THE BOMB?
 <details><summary>Answer</summary>PAIL</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - STILL CANNOT DEFUSE THE BOMB?**
+## 22 - STILL CANNOT DEFUSE THE BOMB?
 <details><summary>Answer</summary>CUT THE WIRES</details>
 
 **23 - More help for above problem.**

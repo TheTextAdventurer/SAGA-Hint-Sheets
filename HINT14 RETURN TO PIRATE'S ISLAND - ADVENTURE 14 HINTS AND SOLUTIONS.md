@@ -1,6 +1,6 @@
 # RETURN TO PIRATE'S ISLAND - ADVENTURE 14 HINTS AND SOLUTIONS
 
-**1 - CAN'T GET ANYWHERE?**
+## 1 - CAN'T GET ANYWHERE?
 <details><summary>Answer</summary>FEEL AROUND</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - EVERYTHING IS FUZZY?**
+## 4 - EVERYTHING IS FUZZY?
 <details><summary>Answer</summary>YOU HAVE BAD EYE SIGHT</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - ALARM CLOCK NOT TO BE FOUND?**
+## 7 - ALARM CLOCK NOT TO BE FOUND?
 <details><summary>Answer</summary>LISTEN</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - GONE JUST ABOUT EVERYWHERE (YOU THINK)?**
+## 10 - GONE JUST ABOUT EVERYWHERE (YOU THINK)?
 <details><summary>Answer</summary>THERE ARE NO SHARKS OFF THESE ISLANDS</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - STILL NO WHERE TO GO?**
+## 13 - STILL NO WHERE TO GO?
 <details><summary>Answer</summary>READ THE BED DESCRIPTION CAREFULLY</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - CAN'T GET TO THE SUMMIT OF THE HILL?**
+## 16 - CAN'T GET TO THE SUMMIT OF THE HILL?
 <details><summary>Answer</summary>READ THE DESCRIPTION CAREFULLY</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN'T GET OFF THE SUMMIT?**
+## 19 - CAN'T GET OFF THE SUMMIT?
 <details><summary>Answer</summary>WHERE WERE YOU TO BEGIN WITH</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - NO LIGHT IN THE CRACK?**
+## 22 - NO LIGHT IN THE CRACK?
 <details><summary>Answer</summary>REMEMBER ADV. #2 - PIRATES ADVENTURE</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - CAN'T OPEN THE BOX?**
+## 25 - CAN'T OPEN THE BOX?
 <details><summary>Answer</summary>THERE IS A HAMMER IN THE SHED</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - CAN'T DO ANYTHING WITH THE FAN?**
+## 28 - CAN'T DO ANYTHING WITH THE FAN?
 <details><summary>Answer</summary>EXAMINE THINGS CAREFULLY</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - HAVE NOT FOUND A SCREWDRIVER?**
+## 31 - HAVE NOT FOUND A SCREWDRIVER?
 <details><summary>Answer</summary>ENGINE ROOM</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - CAN'T WEAR GLASSES WITH THE MASK?**
+## 34 - CAN'T WEAR GLASSES WITH THE MASK?
 <details><summary>Answer</summary>EXAMINE THE GLASSES</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - CAN NOT FIND ALGAE?**
+## 37 - CAN NOT FIND ALGAE?
 <details><summary>Answer</summary>ROCKY BEACH HAS ALGAE</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - CAN NOT FIND BOOKLET?**
+## 40 - CAN NOT FIND BOOKLET?
 <details><summary>Answer</summary>TRY WHERE YOU STARTED</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - GLUE A PROBLEM?**
+## 43 - GLUE A PROBLEM?
 <details><summary>Answer</summary>EXAMINE THE ALGAE</details>
 
 **44 - More help for above problem.**
@@ -180,7 +180,7 @@
 ---
 
 
-**46 - HAVE NOT FOUND RUM?**
+## 46 - HAVE NOT FOUND RUM?
 <details><summary>Answer</summary>DIG BY HILL</details>
 
 **47 - More help for above problem.**
@@ -192,7 +192,7 @@
 ---
 
 
-**49 - CAN'T WORK WITH SOME OBJECTS?**
+## 49 - CAN'T WORK WITH SOME OBJECTS?
 <details><summary>Answer</summary>EXAMINE THE OBJECTS CAREFULLY</details>
 
 **50 - More help for above problem.**
@@ -204,7 +204,7 @@
 ---
 
 
-**52 - CLOCK DRIVING YOU CRAZY?**
+## 52 - CLOCK DRIVING YOU CRAZY?
 <details><summary>Answer</summary>WAIT TILL LATER</details>
 
 **53 - More help for above problem.**
@@ -216,7 +216,7 @@
 ---
 
 
-**55 - HAVE NOT FOUND MAP?**
+## 55 - HAVE NOT FOUND MAP?
 <details><summary>Answer</summary>IT IS IN THE CABIN</details>
 
 **56 - More help for above problem.**
@@ -228,7 +228,7 @@
 ---
 
 
-**58 - CAN NOT SAIL SHIP?**
+## 58 - CAN NOT SAIL SHIP?
 <details><summary>Answer</summary>NEED PIRATE AND MAP</details>
 
 **59 - More help for above problem.**
@@ -240,7 +240,7 @@
 ---
 
 
-**61 - THINGS REAL DARK AFTER YOUR TRIP?**
+## 61 - THINGS REAL DARK AFTER YOUR TRIP?
 <details><summary>Answer</summary>FAN</details>
 
 **62 - More help for above problem.**
@@ -252,7 +252,7 @@
 ---
 
 
-**64 - FUEL AND BATTERY RUNNING LOW?**
+## 64 - FUEL AND BATTERY RUNNING LOW?
 <details><summary>Answer</summary>ENGINE ROOM IS THE KEY</details>
 
 **65 - More help for above problem.**
@@ -264,7 +264,7 @@
 ---
 
 
-**67 - DOCK - CAN'T DO ANYTHING?**
+## 67 - DOCK - CAN'T DO ANYTHING?
 <details><summary>Answer</summary>SWIM UNDER THE DOCK</details>
 
 **68 - More help for above problem.**
@@ -276,7 +276,7 @@
 ---
 
 
-**70 - CAN NOT FIND OYSTER OR COINS?**
+## 70 - CAN NOT FIND OYSTER OR COINS?
 <details><summary>Answer</summary>PLAY WITH THE SILT</details>
 
 **71 - More help for above problem.**
@@ -288,7 +288,7 @@
 ---
 
 
-**73 - OYSTER AND SNAILS TROUBLE?**
+## 73 - OYSTER AND SNAILS TROUBLE?
 <details><summary>Answer</summary>LOOK AT THE SNAIL</details>
 
 **74 - More help for above problem.**
@@ -300,7 +300,7 @@
 ---
 
 
-**76 - MISSING EARRINGS OR RARE STAMPS?**
+## 76 - MISSING EARRINGS OR RARE STAMPS?
 <details><summary>Answer</summary>PIRATE HAS THEM</details>
 
 **77 - More help for above problem.**
@@ -312,7 +312,7 @@
 ---
 
 
-**79 - MISSING RARE PAINTING?**
+## 79 - MISSING RARE PAINTING?
 <details><summary>Answer</summary>TRY THE ONLY PAINTING YOU HAVE FOUND</details>
 
 **80 - More help for above problem.**
@@ -324,7 +324,7 @@
 ---
 
 
-**82 - DO YOU KEEP RUINING PAINTING?**
+## 82 - DO YOU KEEP RUINING PAINTING?
 <details><summary>Answer</summary>OUT THE PORTHOLE</details>
 
 **83 - More help for above problem.**
@@ -336,7 +336,7 @@
 ---
 
 
-**85 - CAN NOT GET BACK THROUGH PORTHOLE WITH LOOT?**
+## 85 - CAN NOT GET BACK THROUGH PORTHOLE WITH LOOT?
 <details><summary>Answer</summary>THAT IS CORRECT</details>
 
 **86 - More help for above problem.**
@@ -348,7 +348,7 @@
 ---
 
 
-**88 - CAN NOT FIND WHERE TO STORE TREASURES?**
+## 88 - CAN NOT FIND WHERE TO STORE TREASURES?
 <details><summary>Answer</summary>SMUGGLERS HOLD INSIDE BOAT</details>
 
 **89 - More help for above problem.**
@@ -360,7 +360,7 @@
 ---
 
 
-**91 - STILL CAN NOT FIND WHERE TO STORE TREASURES?**
+## 91 - STILL CAN NOT FIND WHERE TO STORE TREASURES?
 <details><summary>Answer</summary>FROM UNDER WATER LOOK UP AND USE NON VISUAL SENSE NEXT</details>
 
 **92 - More help for above problem.**
@@ -372,7 +372,7 @@
 ---
 
 
-**94 - STILL CAN NOT FIND WHERE TO STORE TREASURES?**
+## 94 - STILL CAN NOT FIND WHERE TO STORE TREASURES?
 <details><summary>Answer</summary>YOU CAN NEVER GET TREASURES TO WHERE YOU FOUND CLOCK</details>
 
 **95 - More help for above problem.**

@@ -1,6 +1,6 @@
 # MYSTERY FUN HOUSE - ADVENTURE 7 HINTS AND SOLUTIONS
 
-**1 - CAN NOT GET INTO THE FUN HOUSE?**
+## 1 - CAN NOT GET INTO THE FUN HOUSE?
 <details><summary>Answer</summary>READ SIGN BY THE COUNTER</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - LOST IN THE MAZE?**
+## 4 - LOST IN THE MAZE?
 <details><summary>Answer</summary>KEEP TRYING ITS EASY</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - CAN NOT LEAVE THE BARREL ROOM?**
+## 7 - CAN NOT LEAVE THE BARREL ROOM?
 <details><summary>Answer</summary>DO NOT WALK OR RUN OR SKIP OR JUMP BUT MOVE</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - HAVE NOT GOTTEN A KEY?**
+## 10 - HAVE NOT GOTTEN A KEY?
 <details><summary>Answer</summary>TANK</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - MERRY-GO-ROUND A PROBLEM?**
+## 13 - MERRY-GO-ROUND A PROBLEM?
 <details><summary>Answer</summary>WEAR SPECS AND LOOK AROUND</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - HAVE NOT FOUND THE SPECS?**
+## 16 - HAVE NOT FOUND THE SPECS?
 <details><summary>Answer</summary>KNOB</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN NOT GET THROUGH A DOOR?**
+## 19 - CAN NOT GET THROUGH A DOOR?
 <details><summary>Answer</summary>SORRY THAT IS CORRECT</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - STILL STUCK IN THE PIT?**
+## 22 - STILL STUCK IN THE PIT?
 <details><summary>Answer</summary>SOMETHING BY THE GALLERY</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - HAVE NOT FOUND WRENCH?**
+## 25 - HAVE NOT FOUND WRENCH?
 <details><summary>Answer</summary>MERRY GO ROUND</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - PROBLEMS MOVING THE GRATE?**
+## 28 - PROBLEMS MOVING THE GRATE?
 <details><summary>Answer</summary>USE WRENCH</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - DO NOT KNOW WHY YOU ARE AT THE FUN HOUSE?**
+## 31 - DO NOT KNOW WHY YOU ARE AT THE FUN HOUSE?
 <details><summary>Answer</summary>PLAY WITH YOUR HEEL</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - HAVE FOUND NO EXPLOSIVES?**
+## 34 - HAVE FOUND NO EXPLOSIVES?
 <details><summary>Answer</summary>SOFT TYPE EXPLOSIVE</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - GRATE INSIDE SEWER A PROBLEM?**
+## 37 - GRATE INSIDE SEWER A PROBLEM?
 <details><summary>Answer</summary>BLOW IT UP</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - SHOOTING GALLERY PROBLEMS WHEN IN SEWER?**
+## 40 - SHOOTING GALLERY PROBLEMS WHEN IN SEWER?
 <details><summary>Answer</summary>FORTUNE TELLING MACHINE</details>
 
 **41 - More help for above problem.**

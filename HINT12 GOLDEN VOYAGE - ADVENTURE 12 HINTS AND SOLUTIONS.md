@@ -1,6 +1,6 @@
 # GOLDEN VOYAGE - ADVENTURE 12 HINTS AND SOLUTIONS
 
-**1 - MERCHANTS A PROBLEM?**
+## 1 - MERCHANTS A PROBLEM?
 <details><summary>Answer</summary>TAKE INVENTORY</details>
 
 **2 - More help for above problem.**
@@ -12,7 +12,7 @@
 ---
 
 
-**4 - SHIP WON'T MOVE?**
+## 4 - SHIP WON'T MOVE?
 <details><summary>Answer</summary>ARE YOU FREE FLOATING</details>
 
 **5 - More help for above problem.**
@@ -24,7 +24,7 @@
 ---
 
 
-**7 - SCORPIONS A PROBLEM?**
+## 7 - SCORPIONS A PROBLEM?
 <details><summary>Answer</summary>PROTECT YOUR SELF</details>
 
 **8 - More help for above problem.**
@@ -36,7 +36,7 @@
 ---
 
 
-**10 - BOAT DRIFTS AWAY ON YOU?**
+## 10 - BOAT DRIFTS AWAY ON YOU?
 <details><summary>Answer</summary>SECURE IT</details>
 
 **11 - More help for above problem.**
@@ -48,7 +48,7 @@
 ---
 
 
-**13 - STAIRS A PROBLEM?**
+## 13 - STAIRS A PROBLEM?
 <details><summary>Answer</summary>BE SPECIFIC</details>
 
 **14 - More help for above problem.**
@@ -60,7 +60,7 @@
 ---
 
 
-**16 - STATUE A PROBLEM?**
+## 16 - STATUE A PROBLEM?
 <details><summary>Answer</summary>STAIRS</details>
 
 **17 - More help for above problem.**
@@ -72,7 +72,7 @@
 ---
 
 
-**19 - CAN NOT FIND A PASSAGEWAY?**
+## 19 - CAN NOT FIND A PASSAGEWAY?
 <details><summary>Answer</summary>ALTAR</details>
 
 **20 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-**22 - CAN NOT FIND TORCH OR OTHER THINGS?**
+## 22 - CAN NOT FIND TORCH OR OTHER THINGS?
 <details><summary>Answer</summary>IT IS IN THE GROUND</details>
 
 **23 - More help for above problem.**
@@ -96,7 +96,7 @@
 ---
 
 
-**25 - DO NOT KNOW WHAT TO DO WITH THE STONES?**
+## 25 - DO NOT KNOW WHAT TO DO WITH THE STONES?
 <details><summary>Answer</summary>TABLET</details>
 
 **26 - More help for above problem.**
@@ -108,7 +108,7 @@
 ---
 
 
-**28 - DO NOT KNOW WHAT TO DO WITH TABLET?**
+## 28 - DO NOT KNOW WHAT TO DO WITH TABLET?
 <details><summary>Answer</summary>DEPOSIT THEM SOME WHERE WET</details>
 
 **29 - More help for above problem.**
@@ -120,7 +120,7 @@
 ---
 
 
-**31 - MOUNTAIN AND SUN A PROBLEM?**
+## 31 - MOUNTAIN AND SUN A PROBLEM?
 <details><summary>Answer</summary>SAY IT</details>
 
 **32 - More help for above problem.**
@@ -132,7 +132,7 @@
 ---
 
 
-**34 - HAVE NOT FOUND THE GLOBE?**
+## 34 - HAVE NOT FOUND THE GLOBE?
 <details><summary>Answer</summary>SECOND TABLET SHOULD MAKE TWO PLOOSHES WHEN DROPPED IN THE RIGHT FOUNTAIN</details>
 
 **35 - More help for above problem.**
@@ -144,7 +144,7 @@
 ---
 
 
-**37 - CAN NOT FIND CYCLOPS?**
+## 37 - CAN NOT FIND CYCLOPS?
 <details><summary>Answer</summary>LOOK BEHIND ALTAR</details>
 
 **38 - More help for above problem.**
@@ -156,7 +156,7 @@
 ---
 
 
-**40 - CAN NOT GET BY THE CYCLOPS?**
+## 40 - CAN NOT GET BY THE CYCLOPS?
 <details><summary>Answer</summary>GLOBE</details>
 
 **41 - More help for above problem.**
@@ -168,7 +168,7 @@
 ---
 
 
-**43 - STILL CAN'T SAVE THE KING?**
+## 43 - STILL CAN'T SAVE THE KING?
 <details><summary>Answer</summary>CHALICE</details>
 
 **44 - More help for above problem.**
