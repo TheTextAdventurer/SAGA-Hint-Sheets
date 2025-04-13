@@ -5,7 +5,9 @@
 <details><summary>Spoiler</summary>CLIMB TREE</details>
 **3 - Solution to above problem.**
 <details><summary>Spoiler</summary>GO EAST</details>
----
+
+--
+
 **4 - CAN NOT FIND WHERE TO STORE YOUR**
 <details><summary>Spoiler</summar>yN/A CLIMB THE CYPRESS TREE IN THE SWAMP</details>
 **5 - More help for above problem.**
