@@ -12,7 +12,7 @@
 ---
 
 
-## 4 - CAN NOT FIND WHERE TO STORE YOUR
+## 4 - CAN NOT FIND WHERE TO STORE YOUR TREASURES
 <details><summary>Answer</summary>N/A CLIMB THE CYPRESS TREE IN THE SWAMP</details>
 
 **5 - More help for above problem.**
