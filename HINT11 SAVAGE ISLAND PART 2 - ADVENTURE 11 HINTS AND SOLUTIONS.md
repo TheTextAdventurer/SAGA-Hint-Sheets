@@ -60,7 +60,7 @@
 ---
 
 
-## 16 - PSYCHOTRANSFIGURATION GO THROUGH
+## 16 - PSYCHOTRANSFIGURATION GO THROUGH BUT YOU ARE NOW IN THE DARK?
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A N/A IT IS NOT REALLY DARK</details>
 
 **17 - More help for above problem.**
@@ -84,7 +84,7 @@
 ---
 
 
-## 22 - CAN NOT GET THROUGH FORCE FIELD
+## 22 - CAN NOT GET THROUGH FORCE FIELD WITH THE LIGHT?
 <details><summary>Answer</summary>N/A N/A N/A DO NOT LOOK AT THE LIGHT</details>
 
 **23 - More help for above problem.**
