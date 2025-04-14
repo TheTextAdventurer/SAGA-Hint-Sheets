@@ -360,7 +360,7 @@
 ---
 
 
-## 91 - CAN NOT RETRIEVE THINGS FROM MOAT
+## 91 - CAN NOT RETRIEVE THINGS FROM MOAT BOTTOM WITHOUT WASTING A SPELL?
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A THAT IS RIGHT - BUT TWO SPELLS WILL WORK WELL HERE</details>
 
 **92 - More help for above problem.**
@@ -420,7 +420,7 @@
 ---
 
 
-## 106 - WARNING WHAT FOLLOWS ARE SOLUTIONS
+## 106 - WARNING WHAT FOLLOWS ARE SOLUTIONS  AND NOT HINTS!  ARE YOU NOT SURE OF PROCEDURE TO USE SPELLS IN?
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A CAST BLISS WHEN AT MOAT BOTTOM</details>
 
 **107 - More help for above problem.**
