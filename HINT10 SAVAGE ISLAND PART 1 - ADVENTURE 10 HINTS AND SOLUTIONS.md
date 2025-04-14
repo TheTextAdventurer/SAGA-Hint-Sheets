@@ -168,7 +168,7 @@
 ---
 
 
-## 43 - LOSING SOMETHING EARLY IN THE
+## 43 - LOSING SOMETHING EARLY IN THE ADVENTURE THAT YOU NEED LATER ON?
 <details><summary>Answer</summary>N/A N/A N/A N/A N/A N/A POUR IT SOMEWHERE YOU CAN GET IT BACK</details>
 
 **44 - More help for above problem.**
